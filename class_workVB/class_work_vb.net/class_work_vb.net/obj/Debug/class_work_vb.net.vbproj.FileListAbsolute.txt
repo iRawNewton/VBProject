@@ -1,0 +1,26 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\bin\Debug\class_work_vb.net.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\bin\Debug\class_work_vb.net.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\bin\Debug\class_work_vb.net.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.Form1.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\class_work_vb.net\obj\Debug\class_work_vb.net.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.exe
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.xml
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\bin\Debug\class_work_vb.net.exe
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\bin\Debug\class_work_vb.net.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\bin\Debug\class_work_vb.net.xml
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\ResolveAssemblyReference.cache
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.Form1.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.Resources.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.vbproj.GenerateResource.Cache
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.listbox_combo.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.radio_checkbox.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.factorial.resources
+C:\Users\damni\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.exe
+C:\Users\damni\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.xml
+C:\Users\damni\Documents\Visual Studio 2008\Projects\class_work_vb.net\class_work_vb.net\obj\Debug\class_work_vb.net.pdb
