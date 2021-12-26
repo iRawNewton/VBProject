@@ -1,0 +1,27 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\bin\Debug\demo_project.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\bin\Debug\demo_project.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\bin\Debug\demo_project.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.Dept.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\demo_project\obj\Debug\demo_project.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.exe
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.xml
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\bin\Debug\demo_project.exe
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\bin\Debug\demo_project.pdb
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\bin\Debug\demo_project.xml
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\ResolveAssemblyReference.cache
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.Dept.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.Resources.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.vbproj.GenerateResource.Cache
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.student.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.MDIParent1.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.admission_payment.resources
+D:\LENOVO\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.adm_pay_report.resources
+C:\Users\damni\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.exe
+C:\Users\damni\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.xml
+C:\Users\damni\Documents\Visual Studio 2008\Projects\demo_project\demo_project\obj\Debug\demo_project.pdb
